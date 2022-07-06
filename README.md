@@ -1,4 +1,4 @@
-# NLTK_Chatbot
+# Leave Management Chatbot
 Creating chatbot using NLTK
 Human language is astoundingly complex and diverse. When we write, we often misspell or abbreviate words, or omit punctuation. There is a lot of unstructured data around 
 us. Natural language processing helps computers communicate with humans in their own language and scales other language-related tasks. 
